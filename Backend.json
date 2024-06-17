@@ -2,56 +2,55 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
+            "AthenaCharacter:CID_260_Athena_Commando_F_StreetOps"
         ],
-        "price": 1200
+        "price": 2500
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_Flamingo"
+            "AthenaPickaxe:Pickaxe_ID_179_StarWand"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_CrabDance"
+            "AthenaDance:EID_Maracas"
         ],
         "price": 500
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_RockPaperScissors"
+            "AthenaDance:EID_KitchenNavigator"
         ],
         "price": 200
     },
     "daily5": {
         "itemGrants": [
-            "AthenaItemWrap:Wrap_016_CuddleTeam"
+            "AthenaItemWrap:Wrap_164_Scarecrow_Male"
         ],
         "price": 300
     },
     "daily6": {
         "itemGrants": [
-            "AthenaBackpack:BID_026_Brite"
+            "AthenaBackpack:BID_071_VikingFemale"
         ],
-        "price": 600
+        "price": 700
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread", "AthenaBackpack:BID_187_GingerbreadFemale"
-        ],
+            "AthenaCharacter:CID_530_Athena_Commando_F_BlackMonday_1BV6J"
         "price": 1500
     },
     "featured2": {
         "itemGrants": [
-            "AthenaCharacter:CID_049_Athena_Commando_M_HolidayGingerbread", "AthenaBackpack:PetCarrier_006_Gingerbread"
+            "AthenaCharacter:CID_703_Athena_Commando_M_Cyclone"
         ],
-        "price": 1500
+        "price": 0
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H"
+            "AthenaChracter:CID_175_Athena_Commando_M_Celestial"
         ],
-        "price": 0
+        "price": 5000
     }
 }
